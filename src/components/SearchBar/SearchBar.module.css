@@ -1,0 +1,74 @@
+.searchContainer {
+  position: relative;
+  max-width: 600px;
+  margin: 0 auto;
+  display: inline;
+}
+
+.searchBar {
+  display: flex;
+  align-items: center;
+  display: inline;
+}
+
+.searchInput {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 10px 0 0 10px;
+  font-size: 16px;
+  outline: none;
+}
+
+.searchButton {
+  padding: 12px;
+  background-color: rgb(28, 168, 214);
+  border: none;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
+
+.searchButton:hover {
+  background-color: #0056b3;
+}
+
+.suggestionsList {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: rgb(8, 77, 155);
+  border: 1px solid #ccc;
+  border-top: none;
+  max-height: 400px;
+  overflow-y: auto;
+  z-index: 1000;
+  color: rgb(28, 168, 214);
+  border-radius: 0 0 10px 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+/* Полоса изза этого */
+
+.suggestionsList::-webkit-scrollbar {
+  width: 8px;
+}
+
+.suggestionsList::-webkit-scrollbar-thumb {
+  background-color: rgba(28, 168, 214, 0.8);
+  border-radius: 10px;
+}
+
+.suggestionsList::-webkit-scrollbar-track {
+  background: rgba(8, 77, 155, 0.2);
+}
+
+.suggestionItem {
+  padding: 12px;
+  cursor: pointer;
+}
+
+.suggestionItem:hover {
+  background-color: rgba(28, 168, 214, 0.2);
+}

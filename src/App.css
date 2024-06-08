@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+a {
+  color: rgb(28, 168, 214);
+  font-size: 35px;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+nav a {
+  margin: 30px;
+}
+
+.posts-container-light-theme {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 10px 350px;
+  background-color: #c5c5c5;
+  color: #444040;
+}
+
+.posts-container-dark-theme {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 10px 350px;
+  background-color: #1a1717;
+  color: #646161;
+}
+
+.btn-exit {
+  color: rgb(28, 168, 214);
+  font-size: 26px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding-left: 48px;
+}
+
+.img-rick {
+  width: 80px;
+}

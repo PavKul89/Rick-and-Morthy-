@@ -1,0 +1,16 @@
+.historyList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.historyLink {
+  color: rgb(28, 168, 214);
+  text-decoration: underline;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 35px;
+}
+
+.historyLink:hover {
+  text-decoration: none;
+}

@@ -1,0 +1,20 @@
+.dark-light {
+  cursor: pointer;
+  display: inline;
+  margin-left: 16px;
+}
+
+.dark-light img {
+  width: 32px;
+  height: 32px;
+}
+
+body.light {
+  background-color: rgb(235, 226, 226);
+  color: black;
+}
+
+body.dark {
+  background-color: black;
+  color: white;
+}
