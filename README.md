@@ -27,9 +27,9 @@
 - [x] - [Есть применение Lazy+Suspense](https://github.com/PavKul89/Rick-and-Morthy-/blob/f7c0cd7e6a49c3ac28251d1d2a67ab998882cf88/src/components/Posts/Posts.jsx#L8-L11) 
 
 * REDUX
-- [x] - [Используем Modern Redux with Redux Toolkit]()
-- [x] - [Используем слайсы]()
-- [x] - [Кастомная middleware]()
+- [x] - [Используем Modern Redux with Redux Toolkit](https://github.com/PavKul89/Rick-and-Morthy-/blob/2a9671049d03ea6e53121425b7b6076eea32423e/src/redux/store.js#L1-L14)
+- [x] - [Используем слайсы](https://github.com/PavKul89/Rick-and-Morthy-/blob/2a9671049d03ea6e53121425b7b6076eea32423e/src/redux/slices/userSlice.js#L1-L38)
+- [x] - [Кастомная middleware](https://github.com/PavKul89/Rick-and-Morthy-/blob/2a9671049d03ea6e53121425b7b6076eea32423e/src/redux/midlware.js#L1-L8)
 - [x]  - [Используем RTK Query]()
 - [x]  - [Используем Transforming Responses]()
 - [x] -  [Кастомная middleware]()
