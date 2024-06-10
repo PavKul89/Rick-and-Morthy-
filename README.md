@@ -30,10 +30,10 @@
 - [x] - [Используем Modern Redux with Redux Toolkit](https://github.com/PavKul89/Rick-and-Morthy-/blob/2a9671049d03ea6e53121425b7b6076eea32423e/src/redux/store.js#L1-L14)
 - [x] - [Используем слайсы](https://github.com/PavKul89/Rick-and-Morthy-/blob/2a9671049d03ea6e53121425b7b6076eea32423e/src/redux/slices/userSlice.js#L1-L38)
 - [x] - [Кастомная middleware](https://github.com/PavKul89/Rick-and-Morthy-/blob/2a9671049d03ea6e53121425b7b6076eea32423e/src/redux/midlware.js#L1-L8)
-- [x]  - [Используем RTK Query]()
-- [x]  - [Используем Transforming Responses]()
-- [x] -  [Кастомная middleware]()
+- [x] - [Используем RTK Query](https://github.com/PavKul89/Rick-and-Morthy-/blob/1c0e80e9b7c4f9aa2dde1c8476bba64f2b33afc4/src/redux/searvices.js#L1-L24)
+- [x] - [Используем Transforming Responses](https://github.com/PavKul89/Rick-and-Morthy-/blob/1c0e80e9b7c4f9aa2dde1c8476bba64f2b33afc4/src/redux/searvices.js#L9-L19)
+
 
 2 УРОВЕНЬ
-- [x] - [Использование Firebase]()
+- [x] - [Использование Firebase](https://github.com/PavKul89/Rick-and-Morthy-/blob/1c0e80e9b7c4f9aa2dde1c8476bba64f2b33afc4/src/firebase.js#L1)
 
