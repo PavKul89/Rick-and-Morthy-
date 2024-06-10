@@ -17,7 +17,7 @@
   ### REACT
 - [x] Пишем функциональные компоненты 
 - [x] - [Есть рендеринг списков](https://github.com/PavKul89/Rick-and-Morthy-/blob/27b23ffd24974477618f51650d66f314f9ce7b79/src/components/Posts/Posts.jsx#L88-L97)
-- [x] - [Реализована форма](https://github.com/PavKul89/Rick-and-Morthy.ASTON/blob/5e97e791b76b26d2d4577118d9ff8bd3096419a9/src/components/Form/Form.jsx#L1-L46)
+- [x] - [Реализована форма](https://github.com/PavKul89/Rick-and-Morthy-/blob/e69d8a748341bc2e406c8f9832c0b77d136059d4/src/components/Form/Form.jsx#L4-L46)
 - [x] - [Есть применение ContextAPI](https://github.com/PavKul89/Rick-and-Morthy.ASTON/blob/5b47c26bac330ef5a88379863e6692a328822e8a/src/context/FavoritesContext.jsx#L1-L35)
 - [x] - [Есть применение предохранителя](https://github.com/PavKul89/Rick-and-Morthy.ASTON/blob/784cb5af7a07d5bcaa517d32a524fe453da090cf/src/components/Posts.jsx#L76-L78)
 - [x] - [Кастомные хуки](https://github.com/PavKul89/Rick-and-Morthy.ASTON/blob/395e11b5d9e738e783f159ee36e05029dd252697/src/hooks/useFetchCharacter.js#L1-L22)
