@@ -35,5 +35,5 @@
 
 
 2 УРОВЕНЬ
-- [x] - [Использование Firebase](https://github.com/PavKul89/Rick-and-Morthy-/blob/1c0e80e9b7c4f9aa2dde1c8476bba64f2b33afc4/src/firebase.js#L1)
+- [x] - [Использование Firebase](https://github.com/PavKul89/Rick-and-Morthy-/blob/1c0e80e9b7c4f9aa2dde1c8476bba64f2b33afc4/src/components/Form/Login.jsx#L3)
 
